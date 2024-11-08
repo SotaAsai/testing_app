@@ -1,3 +1,3 @@
 # testing_app
-
-A new Flutter project.
+以下のURLでFlutterのテストを学習
+https://codelabs.developers.google.com/codelabs/flutter-app-testing#0
